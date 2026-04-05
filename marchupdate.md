@@ -2,7 +2,7 @@ I wrote a TL;DR for the changes in the last CR and TR. This is heavily inspired 
 
 It's also a focus for judges and players of skirmishes and other tournaments before Unleashed release, so I did not include set 3 exclusive rulings.
 
-### TR Update
+### CR Update
 - HOT FEPR system : FEPR means fully resolving the chain if there is something in it (including priority passes). HOT is an uninterruptible task.
 - Combat resolution is now
    - Combat damage
